@@ -1,0 +1,6 @@
+/processed_celeba_small
+.ipynb_checkpoints/dlnd_face_generation-checkpoint.ipynb
+__pycache__/problem_unittests.cpython-312.pyc
+__pycache__/workspace_utils.cpython-312.pyc
+
+*.pkl
